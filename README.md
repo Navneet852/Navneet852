@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on .any project..
 - 📫 How to reach me nav700neet@gmail.com...
 
-- Created Instagram frontend showing my designing skills ![Instagram](https://navneet852.github.io/instagram-new/)
+- Created Instagram frontend showing my designing skills <a href="https://navneet852.github.io/instagram-new/" >Instagram</a>
 
 <!---
 Navneet852/Navneet852 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
